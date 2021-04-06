@@ -26,20 +26,18 @@ This lab assumes you have:
     - Lab: Environment Setup
     - Lab: Initialize Environment
 
-The following files downloaded in *"Lab: Initialize Environment"* are required to complete this lab.
+The following files downloaded in *"Lab: Initialize Environment"* ([oas-mkplc-freetier.zip](https://objectstorage.us-ashburn-1.oraclecloud.com/p/YDUrvikh-qFK03FcjbB8XxTMRZ9LBCwrXzbria6S9y40rb_xTFBVgjGW4Fx8WCco/n/natdsecurity/b/stack/o/oas-mkplc-freetier.zip)) are required to complete this lab.
 - inventory.xlsx
 - vendor payments.xlsx
 - JRC Americas Group.jpg
 
 ## **Step 1:** Data Visualization and Mash Ups
-1. From the browser session you started in *Lab: Initialize Environment*, Click on *"Create"* at the upper right-hand corner
-   ![](./images/asdvff1.png " ")
+1 - 3. From the browser session you started in *Lab: Initialize Environment*:
+   - **Click** on *"Create"* at the upper right-hand corner
+   - **Click** on Project to start a new self-service project
+   - **Select** the "Sample App" subject area and **Click** "Add to Project"
 
-2. **Click** on Project to start a new self-service project
-   ![](./images/asdvff2.png " ")
-
-3. **Select** the "Sample App" subject area and **Click** "Add to Project"
-   ![](./images/asdvff3.png " ")
+<img src="./gifs/1080_step_1.gif"/>
 
 4. You will be presented with an empty canvas. Let’s start visualizing! First, let’s see how the product ratios are split across Product Types.
 

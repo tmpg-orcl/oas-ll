@@ -23,7 +23,7 @@ This lab assumes you have:
     - Lab: Environment Setup
     - Lab: Initialize Environment
 
-The following files downloaded in *"Lab: Initialize Environment"* are required to complete this lab.
+The following files downloaded in *"Lab: Initialize Environment"* ([oas-mkplc-freetier.zip](https://objectstorage.us-ashburn-1.oraclecloud.com/p/YDUrvikh-qFK03FcjbB8XxTMRZ9LBCwrXzbria6S9y40rb_xTFBVgjGW4Fx8WCco/n/natdsecurity/b/stack/o/oas-mkplc-freetier.zip)) are required to complete this lab.
 - Attrition Training v3.xlsx
 - Employee_Analysis.dva
 
@@ -35,7 +35,7 @@ In this exercise we are going to import a data set containing a number of employ
 
 Once you have imported your data into Oracle Analytics, you begin with data profiling, and reviewing semantic recommendations in order to repair and enrich your data for further analysis. Next you will leverage an augmented analytics capability called *explain*. Explain is used to generate insights via a combination of natural language processing, descriptive statistics and predictive modeling techniques in order to better understand our data and obtain deeper insights, pre-analysis.
 
-1. From the browser session you started in *Lab: Initialize Environment*, go to the landing page, click on create button and select Project.
+1. From the browser session you started in *Lab: Initialize Environment*, go to the landing page:, click on create button and select Project.
 
     ![](./images/hr1.png " ")
 

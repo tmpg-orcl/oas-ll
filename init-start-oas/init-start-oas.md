@@ -24,12 +24,11 @@ This lab has been designed to be executed end-to-end with any modern browser on 
 ### UI Access
 1. Launch your browser to the following URL to access Oracle Analytics Server UI
 
+   ***Note:*** While application processes are automatically started upon instance boot up, it takes approximately **15 minutes** for this URL to become active after all processes have fully started. Should this URL remain inactive after 15 minutes, refer to **Step 3** below for manual start.
     ```
     URL: <copy>http://[your instance public-ip address]:9502/dv/ui</copy>
     e.g: http://111.888.111.888:9502/dv/ui
     ```
-
-    ***Note:*** While application processes are automatically started upon instance boot up, it takes approximately 15 minutes for this URL to become active after all processes have fully started. Should this URL remain inactive after 15 minutes, refer to **Step 3** below for manual start.
 
 2. Provide login credentials
 
