@@ -37,7 +37,7 @@ The following files downloaded in *"Lab: Initialize Environment"* ([oas-mkplc-fr
    - **Click** on Project to start a new self-service project
    - **Select** the "Sample App" subject area and **Click** "Add to Project"
 
-<img src="./gifs/1080_step_1.gif"/>
+<img src="./self-service-data-visualization/gifs/1080_step_1.gif"/>
 
 4. You will be presented with an empty canvas. Let’s start visualizing! First, let’s see how the product ratios are split across Product Types.
 
