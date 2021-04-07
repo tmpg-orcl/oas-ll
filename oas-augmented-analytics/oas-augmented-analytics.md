@@ -41,9 +41,10 @@ This lab assumes you have:
 
 
 1 - 3. Login to Oracle Analytics by entering the URL provided by your instructor.
-    - **Click** on *"Create"* at the upper right-hand corner
-    - **Click** on Project to start a new self-service project
-    - **Select** the "Sample App" subject area and **Click** "Add to Project"
+
+- **Click** on *"Create"* at the upper right-hand corner
+- **Click** on Project to start a new self-service project
+- **Select** the "Sample App" subject area and **Click** "Add to Project"
 
 <img src="./oas-augmented-analytics/gifs/step_1_large.gif"/>
 
