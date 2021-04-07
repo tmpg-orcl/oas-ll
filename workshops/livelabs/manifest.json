@@ -1,5 +1,5 @@
 {
-  "workshoptitle": "Oracle Analytics Server",
+  "workshoptitle": "Oracle Analytics Server Augmented Analytics & Oracle Converged Database-Machine Learning",
   "help": "livelabs-help-license_us@oracle.com",
   "tutorials": [
     {
@@ -23,14 +23,14 @@
       "filename": "../../init-start-oas/init-start-oas.md"
     },
     {
-      "title": "Lab 3: Self-Service Data Visualization",
-      "description": "Self-Service Data Visualization Lab",
-      "filename": "../../self-service-data-visualization/self-service-data-visualization.md"
+      "title": "Lab 3: OAS Augmented Analytics and Data Visualization",
+      "description": "OAS Augmented Analytics and Data Visualization",
+      "filename": "../../oas-augmented-analytics/oas-augmented-analytics.md"
     },
     {
-      "title": "Lab 4: Augmented Analytics",
+      "title": "Lab 4: Augmented Analytics for HR",
       "description": "Augmented Analytics",
-      "filename": "../../augmented-analytics/augmented-analytics.md"
+      "filename": "../../machine-learning-oracle-database/machine-learning-oracle-database.md"
     },
     {
       "title": "Need Help?",
