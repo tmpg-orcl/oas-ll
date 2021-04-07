@@ -40,14 +40,12 @@ This lab assumes you have:
 ## **STEP** 1: Adding Trend Line, Forecast, Clusters and Outliers to charts
 
 
-1. Login to Oracle Analytics by entering the URL provided by your instructor.
-  ![](./images/OAA01.png " ")
+1 - 3. Login to Oracle Analytics by entering the URL provided by your instructor.
+    - **Click** on *"Create"* at the upper right-hand corner
+    - **Click** on Project to start a new self-service project
+    - **Select** the "Sample App" subject area and **Click** "Add to Project"
 
-2. Click on **Create** -> **Project** to start a new self-service project.
-  ![](./images/OAA02.png " ")
-
-3. Select the “**Sample App**” subject area and Click “**Add to Project**”.  
-  ![](./images/OAA03.png " ")  
+<img src="./oas-augmented-analytics/gifs/step_1_large.gif"/>
 
 4. Select “**Profit Ratio %**”, “**Revenue**” and “**Month**.” Right click and select Pick Visualization and  select “**Combo**.”   
   ![](./images/OAA04.png " ")
